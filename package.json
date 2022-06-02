@@ -1,0 +1,8 @@
+{
+  "name": "loan-treinamento-vip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiagomurtinho/loan-treinamento-vip.git",
+  "author": "Thiago Murtinho <thiago.murtinho@poli.ufrj.br>",
+  "license": "MIT"
+}
