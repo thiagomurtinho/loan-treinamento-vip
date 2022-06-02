@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/thiagomurtinho/loan-treinamento-vip.git",
   "author": "Thiago Murtinho <thiago.murtinho@poli.ufrj.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "aliens": ["greys", "E.T.", "autoboots", "decepticons", "marcianos"],
+  "ovinis": ["Disco_voador","Charuto", "osnis"],
+  "valocidade_max": 300000000.00,
+  "unidade_velicidade": "m/s",
+  "data_in_data":{
+    "data_types": {
+      "string": "string",
+      "number": 666,
+      "float": 66.6,
+      "boolean": true,
+      "negative": -666
+
+    }
+  }
+}

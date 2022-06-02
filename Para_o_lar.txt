@@ -1,0 +1,22 @@
+Criar um App em react
+Criar um compente para o item de uma lista
+Criar uma listagem de repositórios publicos do react do Thiago
+   -> url-api: https://api.github.com/users/USERNAME/repos
+   -> referência: https://docs.github.com/pt/rest/repos/repos#list-repositories-for-a-user
+
+Usar:
+-Axios para chamar API -> https://axios-http.com/docs/intro
+-Desestruturação de dados nos requests do Axios
+-Componetes:
+--Children
+--Props
+--Props Drilling
+-Map para exibir os componentes e seus resultados
+-Criatividade par me deixar feliz 🤴
+
+Itens para estudo
+1º O que teve na aula de hoje -> https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+2º Requisições HTTP usando Axios ->https://axios-http.com/docs/intro
+    -> https://github.com/thiagomurtinho/github-explorer/blob/main/src/services/api.ts
+3º Componentes no react
+4º Map para exibir Componentes
